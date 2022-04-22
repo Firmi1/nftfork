@@ -127,7 +127,7 @@
   </ul>
 </header>
 
-{#if chain === "4"}
+{#if chain === "80001"}
   <div class="warning">
     This marketplace is connected to the Rinkeby test network.
   </div>
